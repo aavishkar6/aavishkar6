@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Express, React, and Deep Learning algorithms**
 
-- 💬 Ask me about **Machine learning, data visualization**
+- 💬 Ask me about **Machine learning, data visualization, and AI Safety**
 
 - 📫 How to reach me **aavishkar.gautam@nyu.edu**
 
