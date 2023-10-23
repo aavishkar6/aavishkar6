@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aavishkar</h1>
-<h3 align="center">A dedicated software developer from Nepal.</h3>
+<h3 align="center">I train machine learning models and develop software.</h3>
 
 - 🔭 I’m currently working on **Movie Recommender System and Adversarial attack generation for Computer Vision Models.**
 
